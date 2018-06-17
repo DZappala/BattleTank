@@ -5,18 +5,19 @@ An open-world head-to-head tank fight simulator. Simple AI, terrain, and advance
 
 ***
 
-##Game Design Document
-###Concept
+## Game Design Document
+
+### Concept
 
 + A singleplayer or split screen multiplayer tank game. The goal is to shoot the other player and deplete their health before they deplete yours. OpenWorld
 
-###Rules
+### Rules
 
 + Move anywhere in the terrain
 + Both Players start with finite ammo and health
 + Shot the other player before they shoot you
 
-###Requirements
+### Requirements
 
 + SFX:  Gun firing, explosions, barrel movement, turret movement, engine sounds.
 + Static Mesh: Tank comprising of tracks, body, turret, and barrel.
